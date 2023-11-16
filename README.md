@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @Ramon-Druida
+- 👋 olá amigos do Druida!
 - 👀 
-I am interested in mastering technologies and developing applications and mechanisms.
+      Em algum momento da minha jornada decobri que transmitir o conhecimento é muito importante para todos,
+    por esse motivo, decidi me aprofundar nos conhecimentos necessários para não ensinar de forma errada.
 - 🌱 
-I'm currently learning JavaScript, with attempts to create some responsive documents with HTML/css, I use a raspberry as a server to host the site locally and modify through JavaScript.
-- 💞️ I seek to collaborate on projects that can direct my skills as a developer, and give me the opportunity to contribute my knowledge and help.
-- 📫 My contacts are: phone: 38999957668 
+    Hoje sou especialista em eletricidade e suas tecnologias, estou aplicando esses conhecimentos em automações.
+    Técnico em tecnologia da informação e hacker ético.
+  
+- 📫 My contacts e-mail ramonalexander20@gmail.com  
 <!---
-Ramon-Druida/Ramon-Druida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+  Para você que também sabe ler nas entrelinhas, vou deixar aqui informações sobre desafios.
 --->
